@@ -4,10 +4,6 @@
  */
 package com.burgerqueen.burgerqueen;
 
-/**
- *
- * @author Alumno
- */
 public class combo {
     
 }
