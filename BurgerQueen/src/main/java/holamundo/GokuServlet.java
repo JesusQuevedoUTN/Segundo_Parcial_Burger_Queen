@@ -2,8 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.burgerqueen.burgerqueen;
+package holamundo;
 
-public class combo {
+/**
+ *
+ * @author Alumno
+ */
+public class GokuServlet {
     
 }
